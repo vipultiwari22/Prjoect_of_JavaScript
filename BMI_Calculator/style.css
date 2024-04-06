@@ -1,0 +1,52 @@
+h1 {
+    text-align: center;
+    font-family: sans-serif;
+    font-family: 600;
+}
+
+form {
+    height: 200px;
+    width: 400px;
+    display: flex;
+    flex-direction: column;
+    padding: 10px 15px;
+    margin: 0 auto;
+    background-color: gray;
+}
+
+form input {
+    padding: 5px;
+    margin: 10px;
+}
+
+form label {
+    color: white;
+    font-family: sans-serif;
+    font-weight: 400;
+}
+
+button {
+    margin: 0 auto;
+    padding: 5px;
+    border: none;
+    border-radius: 10px;
+    background-color: rgb(84, 84, 241);
+    color: white;
+    width: 50%;
+}
+
+button:hover {
+    background-color: rgb(56, 56, 247);
+    cursor: pointer;
+}
+.result{
+    margin-top: 10px;
+    font-weight: bold;
+    text-align: center;
+}
+
+.weight-guid {
+    text-align: center;
+    font-family: sans-serif;
+    font-weight: 500;
+}
