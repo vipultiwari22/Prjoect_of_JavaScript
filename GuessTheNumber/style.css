@@ -1,0 +1,86 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.wrapper {
+    text-align: center;
+    margin: 0 auto;
+}
+
+h1 {
+    background-color: black;
+    color: white;
+    font-family: sans-serif;
+    font-weight: 500;
+}
+
+form {
+    height: 400px;
+    width: 400px;
+    background-color: gray;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+form p {
+    color: white;
+    position: relative;
+    top: 2%;
+}
+
+form label {
+    font-size: 3rem;
+    color: white;
+    padding: 10px;
+    margin: 10px;
+    position: relative;
+    top: 3%;
+}
+
+form input {
+    width: 50%;
+    text-align: center;
+    margin: 0 auto;
+    height: 50px;
+    margin-top: 50px;
+}
+
+#submit {
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+button {
+    background-color: black;
+    color: white;
+    border-radius: 10px;
+    font-family: sans-serif;
+    font-weight: 500;
+    font-size: 16px;
+    cursor: pointer;
+}
+
+#submit:hover {
+    background-color: rgb(34, 1, 1);
+}
+
+.resultParas {
+    height: 100px;
+    width: 400px;
+    background-color: gray;
+    margin: 0 auto;
+    display: flex;
+    flex-direction: column;
+}
+
+.resultParas p {
+    color: white;
+}
