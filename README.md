@@ -28,3 +28,12 @@ In this project i will make some boxses. when you click on boxses the the backgr
 <h1>BMI Calculator</h1>
 
 in this project i will make an BMI calculator ypou can use to check your BMI. to know your Helth.i use HTML,CSS,JS to make this. in the js i will slecet every component of the HTML after that i will preform logics on it. also have an form i take it from html and retrive the value from the input tag after that i preform login to get the BMI details
+
+
+<h1>KeyCheck Project</h1>
+
+In this project, the key that is pressed when you press any key is the Board Button.
+
+<h1>Async Project </h1>
+
+We will learn about events inside Async Project. Two html and js files, one for publishing the name as it appears and the other for changing the backdrop color every second, are contained within the Async project.
