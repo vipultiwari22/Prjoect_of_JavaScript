@@ -37,3 +37,7 @@ In this project, the key that is pressed when you press any key is the Board But
 <h1>Async Project </h1>
 
 We will learn about events inside Async Project. Two html and js files, one for publishing the name as it appears and the other for changing the backdrop color every second, are contained within the Async project.
+
+<h1>Gallery Project </h1>
+
+in this project i use HTML CSS JS and make an image gallery when you can go an particular image then image size increase and when leave then decrease accordinglly.
